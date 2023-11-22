@@ -31,4 +31,4 @@ print("Eigen values are",values,"and Eigen Vectors are",vectors)
 ![image](https://github.com/Ajith1413/EIGENVALUES-AND-EIGENVECTORS/assets/139842524/f7c999d5-e7d1-4983-aaac-346453639868)
 
 ## Result:
-Thus the Eigenvalue and Eigenvector is successfully solved using python program
+Thus the Eigenvalue and Eigenvector is successfully solved using python program.
