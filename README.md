@@ -1,6 +1,6 @@
 # EIGENVALUES-AND-EIGENVECTORS
 ## Aim:
-To write a python program to find the Eigenvalues and Eigen Vectors
+To write a python program to find the Eigenvalues and Eigen vectors.
 ## Equipment’s required:
 1. 	Hardware – PCs
 2. 	Anaconda – Python 3.7 Installation / Moodle-Code Runner
