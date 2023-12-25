@@ -37,7 +37,6 @@ print("Eigen values are",values,"and Eigen Vectors are",vectors)
 ![image](https://github.com/Ajith1413/EIGENVALUES-AND-EIGENVECTORS/assets/139842524/d4ae8a6f-4e56-4870-b4fa-bda0b7bcdfdc)
 
 
-![image](https://github.com/Ajith1413/EIGENVALUES-AND-EIGENVECTORS/assets/139842524/d4ae8a6f-4e56-4870-b4fa-bda0b7bcdfdc)
 
 
 ## Result:
